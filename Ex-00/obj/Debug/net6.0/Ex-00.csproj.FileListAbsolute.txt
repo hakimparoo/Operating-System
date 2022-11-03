@@ -1,0 +1,15 @@
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab6-Sychronization\Ex-00\bin\Debug\net6.0\Ex-00.exe
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab6-Sychronization\Ex-00\bin\Debug\net6.0\Ex-00.deps.json
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab6-Sychronization\Ex-00\bin\Debug\net6.0\Ex-00.runtimeconfig.json
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab6-Sychronization\Ex-00\bin\Debug\net6.0\Ex-00.dll
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab6-Sychronization\Ex-00\bin\Debug\net6.0\Ex-00.pdb
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab6-Sychronization\Ex-00\obj\Debug\net6.0\Ex-00.csproj.AssemblyReference.cache
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab6-Sychronization\Ex-00\obj\Debug\net6.0\Ex-00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab6-Sychronization\Ex-00\obj\Debug\net6.0\Ex-00.AssemblyInfoInputs.cache
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab6-Sychronization\Ex-00\obj\Debug\net6.0\Ex-00.AssemblyInfo.cs
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab6-Sychronization\Ex-00\obj\Debug\net6.0\Ex-00.csproj.CoreCompileInputs.cache
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab6-Sychronization\Ex-00\obj\Debug\net6.0\Ex-00.dll
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab6-Sychronization\Ex-00\obj\Debug\net6.0\refint\Ex-00.dll
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab6-Sychronization\Ex-00\obj\Debug\net6.0\Ex-00.pdb
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab6-Sychronization\Ex-00\obj\Debug\net6.0\Ex-00.genruntimeconfig.cache
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab6-Sychronization\Ex-00\obj\Debug\net6.0\ref\Ex-00.dll
