@@ -1,0 +1,15 @@
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab_5_Thread\bin\Debug\net6.0\Lab_5_Thread.exe
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab_5_Thread\bin\Debug\net6.0\Lab_5_Thread.deps.json
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab_5_Thread\bin\Debug\net6.0\Lab_5_Thread.runtimeconfig.json
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab_5_Thread\bin\Debug\net6.0\Lab_5_Thread.dll
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab_5_Thread\bin\Debug\net6.0\Lab_5_Thread.pdb
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab_5_Thread\obj\Debug\net6.0\Lab_5_Thread.csproj.AssemblyReference.cache
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab_5_Thread\obj\Debug\net6.0\Lab_5_Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab_5_Thread\obj\Debug\net6.0\Lab_5_Thread.AssemblyInfoInputs.cache
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab_5_Thread\obj\Debug\net6.0\Lab_5_Thread.AssemblyInfo.cs
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab_5_Thread\obj\Debug\net6.0\Lab_5_Thread.csproj.CoreCompileInputs.cache
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab_5_Thread\obj\Debug\net6.0\Lab_5_Thread.dll
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab_5_Thread\obj\Debug\net6.0\refint\Lab_5_Thread.dll
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab_5_Thread\obj\Debug\net6.0\Lab_5_Thread.pdb
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab_5_Thread\obj\Debug\net6.0\Lab_5_Thread.genruntimeconfig.cache
+C:\Users\ABDULHAKIM\Desktop\student\3_1\Operating System\Code\Lab_5_Thread\obj\Debug\net6.0\ref\Lab_5_Thread.dll
